@@ -33,7 +33,7 @@ x=[1,2,3,4,5]
 y=[3,6,2,7,1]
 sns.lineplot(x=x,y=y)
 plt.title('Line Plot')
-``
+```
 ![image](https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/a0159049-c043-4fb3-862f-a226d395be3d)
 
 2.MULTI-LINE PLOT
