@@ -25,7 +25,8 @@ df.head()
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
-<img src="https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/fb980e39-a84b-45f2-8454-b1915be0e2f7" width="400" height="350">
+![image](https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/6fad2e59-f613-4a85-9c78-ad4ad4c158c0)
+
 
 1.LINE PLOT
 ```
