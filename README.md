@@ -25,7 +25,7 @@ df.head()
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
-![image](https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/fb980e39-a84b-45f2-8454-b1915be0e2f7)
+<img src="https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/fb980e39-a84b-45f2-8454-b1915be0e2f7" width="400" height="350">
 
 1.LINE PLOT
 ```
@@ -34,7 +34,7 @@ y=[3,6,2,7,1]
 sns.lineplot(x=x,y=y)
 plt.title('Line Plot')
 ```
-![image](https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/a0159049-c043-4fb3-862f-a226d395be3d)
+<img src="https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/a0159049-c043-4fb3-862f-a226d395be3d" width="450" height="350">
 
 2.MULTI-LINE PLOT
 ```
@@ -114,7 +114,7 @@ sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
 plt.title('Heatmap of Titanic Dataset')
 plt.show()
 ```
-<img src="https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/a1b3738a-972e-4419-8a58-dcd5ae88d59a" width="400" height="400">
+<img src="https://github.com/Vanisha0609/EXNO-6-DS/assets/119104009/a1b3738a-972e-4419-8a58-dcd5ae88d59a" width="500" height="500">
 
 
 
